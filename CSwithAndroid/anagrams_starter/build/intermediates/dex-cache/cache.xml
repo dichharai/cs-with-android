@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Dichha Chamling\AndroidStudioProjects\anagrams_starter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="e68c0b462b3613f4723ab4c65f5ffaf0d421d72f">
+        <dex dex="C:\Users\Dichha Chamling\AndroidStudioProjects\anagrams_starter\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_588636e7f0f776f3b43659ba012c120201365338.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dichha Chamling\AndroidStudioProjects\anagrams_starter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="52508dcf28ce3565b6e449f29c2e8d7b85b1e11a">
+        <dex dex="C:\Users\Dichha Chamling\AndroidStudioProjects\anagrams_starter\app\build\intermediates\pre-dexed\debug\instant-run_55a9dbb29bd98293ed62aae95035dd417277e22b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dichha Chamling\AndroidStudioProjects\anagrams_starter\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\Dichha Chamling\AndroidStudioProjects\anagrams_starter\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_1495fee16fe5c29d997200645572219f51dd2604.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dichha Chamling\AndroidStudioProjects\anagrams_starter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\Dichha Chamling\AndroidStudioProjects\anagrams_starter\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.1_3569b3c68b25584edc5018489a81799878aa82a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dichha Chamling\AndroidStudioProjects\anagrams_starter\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Users\Dichha Chamling\AndroidStudioProjects\anagrams_starter\app\build\intermediates\pre-dexed\debug\com.android.support-design-22.2.1_39928c660f3270a34e6b86484d7727b7bd661742.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dichha Chamling\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\Dichha Chamling\AndroidStudioProjects\anagrams_starter\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_ab3e2d2a37c01d49e979af417722049380a19077.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dichha Chamling\AndroidStudioProjects\anagrams_starter\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\Dichha Chamling\AndroidStudioProjects\anagrams_starter\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_7e9689af47b611bd6b575c0ef1244b7eae56b889.jar" />
+    </item>
+
+</items>
